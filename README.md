@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
+  Feito 💜 por @claitoncaio by Rocketseat
 </p>
 
 
